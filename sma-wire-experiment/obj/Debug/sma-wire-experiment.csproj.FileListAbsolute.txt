@@ -7,3 +7,12 @@ C:\Users\azizimalek\Documents\Visual Studio 2015\Projects\sma-wire-experiment\sm
 C:\Users\azizimalek\Documents\Visual Studio 2015\Projects\sma-wire-experiment\sma-wire-experiment\obj\Debug\sma-wire-experiment.exe
 C:\Users\azizimalek\Documents\Visual Studio 2015\Projects\sma-wire-experiment\sma-wire-experiment\obj\Debug\sma-wire-experiment.pdb
 C:\Users\azizimalek\Documents\Visual Studio 2015\Projects\sma-wire-experiment\sma-wire-experiment\obj\Debug\sma_wire_experiment.sma_control_form.resources
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\bin\Debug\sma-wire-experiment.exe.config
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma-wire-experiment.exe
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma-wire-experiment.pdb
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\bin\Debug\sma-wire-experiment.exe
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma-wire-experiment.csprojResolveAssemblyReference.cache
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma_wire_experiment.sma_control_form.resources
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma_wire_experiment.Properties.Resources.resources
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\obj\Debug\sma-wire-experiment.csproj.GenerateResource.Cache
+C:\Users\azizimalek\Documents\GitHub\sma-control-monitor\sma-wire-experiment\bin\Debug\sma-wire-experiment.pdb
